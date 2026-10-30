@@ -3,8 +3,8 @@ using System.Text;
 
 ConfigurarConsola();
 
-string cliente = "Ana Pérez";
-string numeroCuenta = "100245";
+string cliente = "Amauris WIllmore";
+string numeroCuenta = "1003142";
 bool cuentaActiva = !args.Contains("--inactiva", StringComparer.OrdinalIgnoreCase);
 decimal saldo = 10000.00m;
 
